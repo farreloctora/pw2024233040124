@@ -1,7 +1,5 @@
 <?php
-$npm = 24; // Angka terakhir NPM Anda
-
-// Lakukan operasi matematika dasar pada variabel $npm
+$npm = 24;
 echo "Aku Adalah angka <b>$npm</b> <br>";
 $npm = $npm * 5;
 echo "Jika aku dikali 5, maka aku sekarang menjadi <b>$npm</b> <br>";
